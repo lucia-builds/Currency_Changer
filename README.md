@@ -28,7 +28,4 @@ A high-performance, real-time currency conversion application built with React, 
    3. Run the development server:
    
    npm run dev
-   
-💡 Problem-Solving Highlight
-Successfully migrated from a deprecated GitHub-based API endpoint to the modern NPM-backed CDN to resolve 404 Not Found and JSON SyntaxError issues, ensuring 100% uptime for data fetching.
 ------------------------------
